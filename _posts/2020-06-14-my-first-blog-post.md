@@ -1,2 +1,7 @@
+---
+title: "GitHub Pages"
+date: 2020-06-15
+---
+
 Hi all, 
-Rightn now I'm doing my best to learn github and git.
+Right now I'm doing my best to learn github and git.
